@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Education
+**Master of Business Informatics**
+Hanyang University
+March, 2023 - August, 2025 (expected)
+
+**Exchange Student**
+New Jersey Institute of Technology
+January, 2024 - May, 2024
+
+**Bachelor of IT Engineering and Big Data Analysis**
+
+Sookmyung Women’s University
+
+March, 2019 - February, 2023
