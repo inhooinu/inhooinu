@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2>Hi there 👋</h2>
 <p>I'm a master's student currently studying Web Development and Data Analytics at Hanyang University in South Korea.</p><br/>
-<p><mark><b>Motto: Be active and pursue your passion!!</b></mark></p><br/>
+<p><mark><b>Motto: Be active and pursue your passion!</b></mark></p><br/>
 
 <h3>My Tech Stack</h3>
 <p><span>
