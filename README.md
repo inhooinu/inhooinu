@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <p>I'm a master's student currently studying Web Development and Data Analytics at Hanyang University in South Korea.</p><br/>
 <p><mark><b>Motto: Be active and pursue your passion!</b></mark></p><br/>
 
-<img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-
 <h3>My Tech Stack</h3>
 <p><span>
   <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
