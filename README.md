@@ -17,15 +17,18 @@ Here are some ideas to get you started:
 <p>I'm a master's student currently studying Web Development and Data Analytics at Hanyang University in South Korea.</p><br/>
 <p><mark><b>Motto: Be active and pursue your passion!</b></mark></p><br/>
 
-<p><b>Things I Enjoy</b></p>
+<p><b>Things I Like</b></p>
 <ul>
   <li>Drinking iced café lattes</li>
   <li>Reading comic books</li>
   <li>Indoor climbing</li>
-  <li>Spending time with animals, especially dogs</li>
+  <li>Animals, especially dogs</li>
   <li>Traveling abroad and exploring new cultures</li>
 </ul><br/>
 
+![travel](https://github.com/user-attachments/assets/ee37aafc-36f8-4efa-982c-1b3dff3ceab4)
+
+<br/>
 <h3>My Tech Stack</h3>
 <p><span>
   <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
