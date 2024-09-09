@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi there 👋</h2>
-<p>I'm a master's student currently studying Web Development and Data Analytics at Hanyang University in South Korea.</p><br/>
+<p>I'm a master's student currently studying Web Development and Data Analytics at Hanyang University in South Korea. My goal is to become a programmer who can share my knowledge and expertise with others.</p><br/>
 <p><mark><b>Motto: Be active and pursue your passion!</b></mark></p><br/>
 
 <p><b>Things I Like</b></p>
@@ -63,6 +63,23 @@ Here are some ideas to get you started:
 <p><b>R.Lab Intern (AI Researcher)</b><br/>
   GoQba Technology<br/>
   August, 2022 - December, 2022
+</p>
+
+<br/>
+<h3>Teaching</h3>
+<p><b>Python Practical Workshop Instructor</b><br/>
+  Hanyang University<br/>
+  September, 2023 - February, 2024
+</p>
+
+<p><b>Computer Class Instructor & Activity Coordinator</b><br/>
+  PSCORE - Program for North Korean Refugee Middle School Students<br/>
+  September, 2021 - October, 2021
+</p>
+
+<p><b>Arduino Assistant Instructor</b><br/>
+  Seoul University-High School Regional Talent Development Program<br/>
+  August, 2020
 </p>
 
 <br/>
