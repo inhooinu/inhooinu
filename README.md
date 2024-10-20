@@ -114,3 +114,12 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+<br/><br/>
+<p><a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/inhooinu"
+  width="600"
+  height="300"
+/>
+</a></p>
